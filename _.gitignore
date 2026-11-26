@@ -1,0 +1,4 @@
+.vs/
+*.sqlite
+applicationhost.config
+VSWorkspaceState.json
